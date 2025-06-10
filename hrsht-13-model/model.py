@@ -23,4 +23,5 @@ def download_model():
     if layer in train_layers:
       layer.trainable = True
   model.save("model/model.h5")
- 
+
+  return model
