@@ -1,0 +1,3 @@
+[submodule "YOLOv8-Medical-Imaging"]
+	path = YOLOv8-Medical-Imaging
+	url = https://github.com/UriKialy/YOLOv8-Medical-Imaging
