@@ -1,5 +1,0 @@
-gradio
-pillow==7.0.0
-numpy>=1.9.2
-tensorflow==2.12.0
-
