@@ -1,0 +1,7 @@
+# dataset dumps
+segmentation/Dataset_BUSI_with_GT/
+
+# caches, logs, images
+__pycache__/
+*.png
+*.jpg
