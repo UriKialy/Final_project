@@ -1,0 +1,8 @@
+names:
+- benign
+- malignant
+- normal
+nc: 3
+test: /home/gilb-server/Documents/Final_project/YOLOv8-Medical-Imaging/segmentation/data/test/images
+train: /home/gilb-server/Documents/Final_project/YOLOv8-Medical-Imaging/segmentation/data/train/images
+val: /home/gilb-server/Documents/Final_project/YOLOv8-Medical-Imaging/segmentation/data/val/images
