@@ -5,3 +5,6 @@ segmentation/Dataset_BUSI_with_GT/
 __pycache__/
 *.png
 *.jpg
+
+
+**/.venv/
