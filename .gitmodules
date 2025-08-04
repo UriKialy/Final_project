@@ -1,3 +1,7 @@
 [submodule "YOLOv8-Medical-Imaging"]
 	path = YOLOv8-Medical-Imaging
 	url = https://github.com/UriKialy/YOLOv8-Medical-Imaging
+[submodule "s/breast_cancer_detection"]
+	path = s/breast_cancer_detection
+	url = https://github.com/UriKialy/breast_cancer_detection.git
+	branch = main
